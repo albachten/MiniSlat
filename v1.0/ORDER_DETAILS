@@ -1,0 +1,55 @@
+FR4 PCB $41.80
+4 Layers
+160x106mm
+QTY (5 $32.90)   10 $41.80
+Industrial/Consumer
+1 Design
+Single PCB
+1.6mm Thickness
+PCB Green
+Silkscreen White
+FR4 TG135
+HASL w/Lead
+Outer Copper 1oz
+Inner Copper 0.5oz
+Specify Layer Sequence: No
+Specify Stackuo: No
+Via Covering: plugged
+Via Plating: Not Specified
+Min Via Hole Size 0.3/0.45
+Board Outline Tolerance: +-0.2mm
+Confirm Production File: No
+Mark on PCB: Order Number (Specify Position)
+Electrical Test: Flying Probe Full Test
+Gold Fingers: No
+castellated holes: No
+Press fit hole: No
+Edge Plating: No
+Blind Slots: No
+UL Marking: No
+Backdrill: No
+
+Stencil $17.27
+Framework: No
+Step Stencil: No
+Nano Coating: Yes
+Stencil Side: Top Only
+Dimensions: Custom 200x150mm
+Qty: 1
+Thickness: Custom 0.1mm
+Type: Solder Paste Stencil
+Polishing: Electropolishing
+Fiducials: No
+Confirm Production File: No
+Engrave Text: yes "MiniSlat V1.0 2/13/2026"
+Package box: w/JLCPCB Logo
+Stencil remark: The 3 test pads along the bottom edge do need the solder paste openings as specified - they are surface mount connections
+
+PCB+Stencil  59.07
+Shipping:    57.45 DHL (DDP: Delivery Duty Paid)
+Duty/Tax     36.08
+Paypal        0.76
+Sales tax     9.66
+            163.02
+
+
